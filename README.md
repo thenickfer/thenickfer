@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning web and game development
 - 📫 How to reach me through my email nicolas.dcferreira@gmail.com
 
-[![thenickfer's github stats](https://github-readme-stats.vercel.app/api?username=thenickfer&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenickfer&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![thenickfer's github stats](https://github-readme-stats.vercel.app/api?username=thenickfer&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenickfer&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
