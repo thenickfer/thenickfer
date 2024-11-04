@@ -1,7 +1,8 @@
 - 👋 Hi, My name is Nicolas
 - 👀 I’m interested in music and coding
 - 🌱 I’m currently learning web and game development
-- 📫 How to reach me: through my email nicolas.dcferreira@gmail.com
+- 📫 How to reach me:
+  through my email @ nicolas.dcferreira@gmail.com
 
 [![thenickfer's github stats](https://github-readme-stats.vercel.app/api?username=thenickfer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
