@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Nicolas
 - 👀 I’m interested in music and coding
-- 🌱 I’m currently learning web and game development
+- 🌱 I’m a computer science student at PUCRS
 - 📫 How to reach me:
   through my email @ nicolas.dcferreira@gmail.com
 
