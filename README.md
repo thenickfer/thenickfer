@@ -1,13 +1,8 @@
-- 👋 Hi, My name is Nicolas
-- 👀 I’m interested in music and coding
-- 🌱 I’m a computer science student at PUCRS
-- 📫 How to reach me:
-  through my email @ nicolas.dcferreira@gmail.com
+## Hi, I'm Nícolas
 
-[![thenickfer's github stats](https://github-readme-stats.vercel.app/api?username=thenickfer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Computer Science student at PUCRS and Software R&D Intern at LiS (HP/PUCRS).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenickfer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+Interested in programming, DevOps, distributed systems, and applied AI.
 
 <!---
 thenickfer/thenickfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
